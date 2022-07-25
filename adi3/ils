@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="http://www.librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="80mm" height="86mm" viewBox="0 0 80 86">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1">
+        <circle cx="2.24999933" cy="2.99999897" r="1.6"/>
+        <circle cx="2.24999933" cy="82.99999897" r="1.6"/>
+        <circle cx="77.74999933" cy="2.99999897" r="1.6"/>
+        <circle cx="77.74999933" cy="82.99999897" r="1.6"/>
+        <circle cx="40.24999933" cy="38.99999897" r="25"/>
+        <circle cx="7.5" cy="20" r="0.75"/>
+        <circle cx="74.5" cy="20" r="0.75"/>
+        <circle cx="7.5" cy="58" r="0.75"/>
+        <circle cx="74.5" cy="58" r="0.75"/>
+        <path d="M78,0 A2,2 0 0,1 80,2 L80,84 A2,2 0 0,1 78,86 L2,86 A2,2 0 0,1 0,84 L0,2 A2,2 0 0,1 2,0 L78,0 "/>
+    </g>
+    <g lc:layername="dimensions" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="black" stroke-width="1"/>
+</svg>
